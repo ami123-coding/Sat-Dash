@@ -1,4 +1,4 @@
-import './globals.css';
+import '../styles/globals.css';
 export const metadata = { title: 'SAT Practice', description: 'Simple SAT-style practice test' };
 export default function RootLayout({children}) {
   return (
