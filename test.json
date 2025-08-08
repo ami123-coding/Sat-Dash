@@ -1,0 +1,1334 @@
+{
+  "rw": [
+    {
+      "section": "rw",
+      "type": "usage",
+      "stem": "Choose the most precise and conventional word.",
+      "passage": "The lab used ___ samples this year than last year.",
+      "choices": [
+        "fewer",
+        "least",
+        "less",
+        "little"
+      ],
+      "answer": 0,
+      "explanation": "Countable noun \u201csamples\u201d takes \u201cfewer\u201d. "
+    },
+    {
+      "section": "rw",
+      "type": "usage",
+      "stem": "Choose the most precise and conventional word.",
+      "passage": "The lab used ___ samples this year than last year.",
+      "choices": [
+        "fewer",
+        "less",
+        "little",
+        "least"
+      ],
+      "answer": 0,
+      "explanation": "Countable noun \u201csamples\u201d takes \u201cfewer\u201d. "
+    },
+    {
+      "section": "rw",
+      "type": "usage",
+      "stem": "Choose the most precise and conventional word.",
+      "passage": "The lab used ___ samples this year than last year.",
+      "choices": [
+        "least",
+        "less",
+        "little",
+        "fewer"
+      ],
+      "answer": 3,
+      "explanation": "Countable noun \u201csamples\u201d takes \u201cfewer\u201d. "
+    },
+    {
+      "section": "rw",
+      "type": "reading",
+      "stem": "What is the main purpose of the passage?",
+      "passage": "Studies show urban canopy cover lowers temperatures, reduces stormwater runoff, and improves public health in measurable ways.",
+      "choices": [
+        "to criticize city councils",
+        "to describe a historical monument",
+        "to argue that urban trees provide measurable benefits",
+        "to narrate a personal experience"
+      ],
+      "answer": 2,
+      "explanation": "The passage presents claims and evidence about benefits."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more infrequent explanation after the initial results proved too vague.",
+      "choices": [
+        "erroneous",
+        "speculative",
+        "infrequent",
+        "verbose"
+      ],
+      "answer": 2,
+      "explanation": "infrequent best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "are",
+        "is",
+        "were",
+        "be"
+      ],
+      "answer": 1,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "be",
+        "were",
+        "are",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more diminish explanation after the initial results proved too vague.",
+      "choices": [
+        "erroneous",
+        "verbose",
+        "diminish",
+        "speculative"
+      ],
+      "answer": 2,
+      "explanation": "diminish best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "reading",
+      "stem": "What is the main purpose of the passage?",
+      "passage": "Studies show urban canopy cover lowers temperatures, reduces stormwater runoff, and improves public health in measurable ways.",
+      "choices": [
+        "to narrate a personal experience",
+        "to criticize city councils",
+        "to describe a historical monument",
+        "to argue that urban trees provide measurable benefits"
+      ],
+      "answer": 3,
+      "explanation": "The passage presents claims and evidence about benefits."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more irate explanation after the initial results proved too vague.",
+      "choices": [
+        "erroneous",
+        "verbose",
+        "irate",
+        "speculative"
+      ],
+      "answer": 2,
+      "explanation": "irate best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more lucid explanation after the initial results proved too vague.",
+      "choices": [
+        "erroneous",
+        "speculative",
+        "verbose",
+        "lucid"
+      ],
+      "answer": 3,
+      "explanation": "lucid best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more beneficial explanation after the initial results proved too vague.",
+      "choices": [
+        "beneficial",
+        "erroneous",
+        "verbose",
+        "speculative"
+      ],
+      "answer": 0,
+      "explanation": "beneficial best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "is",
+        "be",
+        "were",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "reading",
+      "stem": "What is the main purpose of the passage?",
+      "passage": "Studies show urban canopy cover lowers temperatures, reduces stormwater runoff, and improves public health in measurable ways.",
+      "choices": [
+        "to narrate a personal experience",
+        "to criticize city councils",
+        "to describe a historical monument",
+        "to argue that urban trees provide measurable benefits"
+      ],
+      "answer": 3,
+      "explanation": "The passage presents claims and evidence about benefits."
+    },
+    {
+      "section": "rw",
+      "type": "reading",
+      "stem": "What is the main purpose of the passage?",
+      "passage": "Studies show urban canopy cover lowers temperatures, reduces stormwater runoff, and improves public health in measurable ways.",
+      "choices": [
+        "to narrate a personal experience",
+        "to argue that urban trees provide measurable benefits",
+        "to describe a historical monument",
+        "to criticize city councils"
+      ],
+      "answer": 1,
+      "explanation": "The passage presents claims and evidence about benefits."
+    },
+    {
+      "section": "rw",
+      "type": "reading",
+      "stem": "What is the main purpose of the passage?",
+      "passage": "Studies show urban canopy cover lowers temperatures, reduces stormwater runoff, and improves public health in measurable ways.",
+      "choices": [
+        "to criticize city councils",
+        "to argue that urban trees provide measurable benefits",
+        "to describe a historical monument",
+        "to narrate a personal experience"
+      ],
+      "answer": 1,
+      "explanation": "The passage presents claims and evidence about benefits."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "be",
+        "were",
+        "are",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "reading",
+      "stem": "What is the main purpose of the passage?",
+      "passage": "Studies show urban canopy cover lowers temperatures, reduces stormwater runoff, and improves public health in measurable ways.",
+      "choices": [
+        "to criticize city councils",
+        "to narrate a personal experience",
+        "to argue that urban trees provide measurable benefits",
+        "to describe a historical monument"
+      ],
+      "answer": 2,
+      "explanation": "The passage presents claims and evidence about benefits."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more amplify explanation after the initial results proved too ambiguous.",
+      "choices": [
+        "erroneous",
+        "speculative",
+        "amplify",
+        "verbose"
+      ],
+      "answer": 2,
+      "explanation": "amplify best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "reading",
+      "stem": "What is the main purpose of the passage?",
+      "passage": "Studies show urban canopy cover lowers temperatures, reduces stormwater runoff, and improves public health in measurable ways.",
+      "choices": [
+        "to criticize city councils",
+        "to argue that urban trees provide measurable benefits",
+        "to narrate a personal experience",
+        "to describe a historical monument"
+      ],
+      "answer": 1,
+      "explanation": "The passage presents claims and evidence about benefits."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Therefore",
+        "Meanwhile",
+        "Consequently",
+        "However"
+      ],
+      "answer": 3,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more lucid explanation after the initial results proved too ambiguous.",
+      "choices": [
+        "verbose",
+        "speculative",
+        "lucid",
+        "erroneous"
+      ],
+      "answer": 2,
+      "explanation": "lucid best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Meanwhile",
+        "Therefore",
+        "However",
+        "Consequently"
+      ],
+      "answer": 2,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Meanwhile",
+        "Consequently",
+        "However",
+        "Therefore"
+      ],
+      "answer": 2,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more amplify explanation after the initial results proved too vague.",
+      "choices": [
+        "amplify",
+        "speculative",
+        "erroneous",
+        "verbose"
+      ],
+      "answer": 0,
+      "explanation": "amplify best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Therefore",
+        "Meanwhile",
+        "Consequently",
+        "However"
+      ],
+      "answer": 3,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Therefore",
+        "Consequently",
+        "Meanwhile",
+        "However"
+      ],
+      "answer": 3,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more infrequent explanation after the initial results proved too tentative.",
+      "choices": [
+        "infrequent",
+        "speculative",
+        "erroneous",
+        "verbose"
+      ],
+      "answer": 0,
+      "explanation": "infrequent best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "are",
+        "be",
+        "were",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "be",
+        "are",
+        "is",
+        "were"
+      ],
+      "answer": 2,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "usage",
+      "stem": "Choose the most precise and conventional word.",
+      "passage": "The lab used ___ samples this year than last year.",
+      "choices": [
+        "less",
+        "least",
+        "little",
+        "fewer"
+      ],
+      "answer": 3,
+      "explanation": "Countable noun \u201csamples\u201d takes \u201cfewer\u201d. "
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Therefore",
+        "Meanwhile",
+        "However",
+        "Consequently"
+      ],
+      "answer": 2,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "usage",
+      "stem": "Choose the most precise and conventional word.",
+      "passage": "The lab used ___ samples this year than last year.",
+      "choices": [
+        "little",
+        "fewer",
+        "less",
+        "least"
+      ],
+      "answer": 1,
+      "explanation": "Countable noun \u201csamples\u201d takes \u201cfewer\u201d. "
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more infrequent explanation after the initial results proved too tentative.",
+      "choices": [
+        "verbose",
+        "infrequent",
+        "erroneous",
+        "speculative"
+      ],
+      "answer": 1,
+      "explanation": "infrequent best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "were",
+        "are",
+        "be",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "usage",
+      "stem": "Choose the most precise and conventional word.",
+      "passage": "The lab used ___ samples this year than last year.",
+      "choices": [
+        "little",
+        "less",
+        "least",
+        "fewer"
+      ],
+      "answer": 3,
+      "explanation": "Countable noun \u201csamples\u201d takes \u201cfewer\u201d. "
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more opaque explanation after the initial results proved too ambiguous.",
+      "choices": [
+        "speculative",
+        "verbose",
+        "erroneous",
+        "opaque"
+      ],
+      "answer": 3,
+      "explanation": "opaque best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more diminish explanation after the initial results proved too vague.",
+      "choices": [
+        "speculative",
+        "diminish",
+        "verbose",
+        "erroneous"
+      ],
+      "answer": 1,
+      "explanation": "diminish best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more diminish explanation after the initial results proved too tentative.",
+      "choices": [
+        "erroneous",
+        "diminish",
+        "verbose",
+        "speculative"
+      ],
+      "answer": 1,
+      "explanation": "diminish best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "usage",
+      "stem": "Choose the most precise and conventional word.",
+      "passage": "The lab used ___ samples this year than last year.",
+      "choices": [
+        "less",
+        "little",
+        "least",
+        "fewer"
+      ],
+      "answer": 3,
+      "explanation": "Countable noun \u201csamples\u201d takes \u201cfewer\u201d. "
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more lucid explanation after the initial results proved too tentative.",
+      "choices": [
+        "speculative",
+        "lucid",
+        "verbose",
+        "erroneous"
+      ],
+      "answer": 1,
+      "explanation": "lucid best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "However",
+        "Consequently",
+        "Meanwhile",
+        "Therefore"
+      ],
+      "answer": 0,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": 0,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "reading",
+      "stem": "What is the main purpose of the passage?",
+      "passage": "Studies show urban canopy cover lowers temperatures, reduces stormwater runoff, and improves public health in measurable ways.",
+      "choices": [
+        "to describe a historical monument",
+        "to criticize city councils",
+        "to argue that urban trees provide measurable benefits",
+        "to narrate a personal experience"
+      ],
+      "answer": 2,
+      "explanation": "The passage presents claims and evidence about benefits."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Consequently",
+        "Therefore",
+        "However",
+        "Meanwhile"
+      ],
+      "answer": 2,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": 0,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "grammar",
+      "stem": "Choose the correct verb form to agree with the subject.",
+      "passage": "A collection of essays ___ on the table.",
+      "choices": [
+        "be",
+        "is",
+        "were",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "Subject is singular (\u201ccollection\u201d), so \u201cis\u201d is correct."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Consequently",
+        "However",
+        "Meanwhile",
+        "Therefore"
+      ],
+      "answer": 1,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Meanwhile",
+        "Therefore",
+        "Consequently",
+        "However"
+      ],
+      "answer": 3,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "usage",
+      "stem": "Choose the most precise and conventional word.",
+      "passage": "The lab used ___ samples this year than last year.",
+      "choices": [
+        "little",
+        "fewer",
+        "least",
+        "less"
+      ],
+      "answer": 1,
+      "explanation": "Countable noun \u201csamples\u201d takes \u201cfewer\u201d. "
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more diminish explanation after the initial results proved too tentative.",
+      "choices": [
+        "verbose",
+        "erroneous",
+        "diminish",
+        "speculative"
+      ],
+      "answer": 2,
+      "explanation": "diminish best conveys the intended meaning."
+    },
+    {
+      "section": "rw",
+      "type": "reading",
+      "stem": "What is the main purpose of the passage?",
+      "passage": "Studies show urban canopy cover lowers temperatures, reduces stormwater runoff, and improves public health in measurable ways.",
+      "choices": [
+        "to argue that urban trees provide measurable benefits",
+        "to narrate a personal experience",
+        "to describe a historical monument",
+        "to criticize city councils"
+      ],
+      "answer": 0,
+      "explanation": "The passage presents claims and evidence about benefits."
+    },
+    {
+      "section": "rw",
+      "type": "transition",
+      "stem": "Select the best transition to contrast the ideas.",
+      "passage": "The hypothesis seemed promising. ___, the data failed to support it.",
+      "choices": [
+        "Meanwhile",
+        "However",
+        "Consequently",
+        "Therefore"
+      ],
+      "answer": 1,
+      "explanation": "A contrast is needed; \"However\" fits."
+    },
+    {
+      "section": "rw",
+      "type": "vocab",
+      "stem": "Choose the word that best fits the sentence.",
+      "passage": "The scientist sought a more diminish explanation after the initial results proved too vague.",
+      "choices": [
+        "erroneous",
+        "speculative",
+        "verbose",
+        "diminish"
+      ],
+      "answer": 3,
+      "explanation": "diminish best conveys the intended meaning."
+    }
+  ],
+  "math": [
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 4x = 36, what is x?",
+      "choices": [
+        13,
+        36,
+        9,
+        4
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 4 to get x=36/4=9.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 8x = 40, what is x?",
+      "choices": [
+        5,
+        8,
+        40,
+        13
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 8 to get x=40/8=5.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 3x = 27, what is x?",
+      "choices": [
+        9,
+        27,
+        3,
+        12
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 3 to get x=27/3=9.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 9x = 45, what is x?",
+      "choices": [
+        5,
+        14,
+        9,
+        45
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 9 to get x=45/9=5.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 2x = 16, what is x?",
+      "choices": [
+        8,
+        2,
+        10,
+        16
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 2 to get x=16/2=8.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 11x = 33, what is x?",
+      "choices": [
+        33,
+        3,
+        11,
+        14
+      ],
+      "answer": 0,
+      "explanation": "Divide both sides by 11 to get x=33/11=3.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 2x = 18, what is x?",
+      "choices": [
+        11,
+        2,
+        9,
+        18
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 2 to get x=18/2=9.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 11x = 66, what is x?",
+      "choices": [
+        11,
+        17,
+        66,
+        6
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 11 to get x=66/11=6.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 11x = 110, what is x?",
+      "choices": [
+        11,
+        10,
+        21,
+        110
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 11 to get x=110/11=10.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 6x = 66, what is x?",
+      "choices": [
+        11,
+        6,
+        66,
+        17
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 6 to get x=66/6=11.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 4x = 20, what is x?",
+      "choices": [
+        20,
+        5,
+        4,
+        9
+      ],
+      "answer": 0,
+      "explanation": "Divide both sides by 4 to get x=20/4=5.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 10x = 90, what is x?",
+      "choices": [
+        10,
+        19,
+        90,
+        9
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 10 to get x=90/10=9.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 10x = 100, what is x?",
+      "choices": [
+        10,
+        20,
+        100,
+        10
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 10 to get x=100/10=10.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 2x = 20, what is x?",
+      "choices": [
+        10,
+        20,
+        2,
+        12
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 2 to get x=20/2=10.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 9x = 54, what is x?",
+      "choices": [
+        15,
+        54,
+        6,
+        9
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 9 to get x=54/9=6.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 11x = 77, what is x?",
+      "choices": [
+        7,
+        77,
+        11,
+        18
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 11 to get x=77/11=7.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 7x = 35, what is x?",
+      "choices": [
+        12,
+        35,
+        5,
+        7
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 7 to get x=35/7=5.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 10x = 20, what is x?",
+      "choices": [
+        2,
+        12,
+        10,
+        20
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 10 to get x=20/10=2.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 11x = 132, what is x?",
+      "choices": [
+        23,
+        132,
+        11,
+        12
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 11 to get x=132/11=12.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 5x = 45, what is x?",
+      "choices": [
+        9,
+        45,
+        14,
+        5
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 5 to get x=45/5=9.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 2x = 18, what is x?",
+      "choices": [
+        9,
+        2,
+        11,
+        18
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 2 to get x=18/2=9.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 3x = 21, what is x?",
+      "choices": [
+        7,
+        21,
+        10,
+        3
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 3 to get x=21/3=7.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 10x = 70, what is x?",
+      "choices": [
+        17,
+        70,
+        7,
+        10
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 10 to get x=70/10=7.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 11x = 33, what is x?",
+      "choices": [
+        14,
+        33,
+        11,
+        3
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 11 to get x=33/11=3.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 11x = 132, what is x?",
+      "choices": [
+        12,
+        132,
+        11,
+        23
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 11 to get x=132/11=12.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 11x = 33, what is x?",
+      "choices": [
+        33,
+        14,
+        11,
+        3
+      ],
+      "answer": 0,
+      "explanation": "Divide both sides by 11 to get x=33/11=3.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 12x = 36, what is x?",
+      "choices": [
+        3,
+        12,
+        15,
+        36
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 12 to get x=36/12=3.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 2x = 8, what is x?",
+      "choices": [
+        8,
+        4,
+        2,
+        6
+      ],
+      "answer": 0,
+      "explanation": "Divide both sides by 2 to get x=8/2=4.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 11x = 22, what is x?",
+      "choices": [
+        22,
+        11,
+        13,
+        2
+      ],
+      "answer": 0,
+      "explanation": "Divide both sides by 11 to get x=22/11=2.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 4x = 32, what is x?",
+      "choices": [
+        4,
+        12,
+        32,
+        8
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 4 to get x=32/4=8.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 8x = 80, what is x?",
+      "choices": [
+        8,
+        80,
+        18,
+        10
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 8 to get x=80/8=10.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 8x = 56, what is x?",
+      "choices": [
+        7,
+        15,
+        56,
+        8
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 8 to get x=56/8=7.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 4x = 16, what is x?",
+      "choices": [
+        8,
+        4,
+        4,
+        16
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 4 to get x=16/4=4.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 9x = 27, what is x?",
+      "choices": [
+        9,
+        12,
+        27,
+        3
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 9 to get x=27/9=3.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 3x = 12, what is x?",
+      "choices": [
+        3,
+        12,
+        4,
+        7
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 3 to get x=12/3=4.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 10x = 40, what is x?",
+      "choices": [
+        10,
+        14,
+        4,
+        40
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 10 to get x=40/10=4.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 7x = 70, what is x?",
+      "choices": [
+        7,
+        70,
+        17,
+        10
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 7 to get x=70/7=10.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 10x = 120, what is x?",
+      "choices": [
+        120,
+        10,
+        22,
+        12
+      ],
+      "answer": 0,
+      "explanation": "Divide both sides by 10 to get x=120/10=12.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 9x = 90, what is x?",
+      "choices": [
+        10,
+        90,
+        9,
+        19
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 9 to get x=90/9=10.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 8x = 64, what is x?",
+      "choices": [
+        8,
+        64,
+        16,
+        8
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 8 to get x=64/8=8.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 5x = 10, what is x?",
+      "choices": [
+        5,
+        10,
+        2,
+        7
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 5 to get x=10/5=2.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 9x = 72, what is x?",
+      "choices": [
+        8,
+        9,
+        72,
+        17
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 9 to get x=72/9=8.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 6x = 18, what is x?",
+      "choices": [
+        9,
+        18,
+        3,
+        6
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides by 6 to get x=18/6=3.0."
+    },
+    {
+      "section": "math",
+      "type": "algebra",
+      "stem": "Solve for x: if 7x = 49, what is x?",
+      "choices": [
+        7,
+        14,
+        49,
+        7
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides by 7 to get x=49/7=7.0."
+    }
+  ]
+}
